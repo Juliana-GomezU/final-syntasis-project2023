@@ -1,2 +1,2 @@
-# final-syntasis-project2023
+# final-syntesis-project
 Created with CodeSandbox
